@@ -1,1 +1,426 @@
-/home/omar/FOSS/l10n/vim-doc-es/7.3/recursos_de_traduccion/terminology.po
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-19 11:44+0200\n"
+"PO-Revision-Date: 2011-02-26 20:58+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0-beta2\n"
+
+msgid "command"
+msgstr "orden"
+
+msgid "commands"
+msgstr "órdenes"
+
+msgid "file"
+msgstr "archivo"
+
+msgid "default"
+msgstr "por omisión"
+
+msgid "default"
+msgstr "predeterminado"
+
+# ver rae y vim wiki para una explicación de la
+# plurisemántica «macro», y/o el hilo de la lista
+# sobre «mapping»
+msgid "macro"
+msgstr "macro"
+
+msgid "mapping"
+msgstr "macro"
+
+# En el sentido de «map keys to»
+# también «asignación»
+msgid "map"
+msgstr "asignar"
+
+msgid "mapped"
+msgstr "asignado"
+
+msgid "remapping"
+msgstr "reasignación de macros"
+
+## Soporta es la ultima opción
+msgid "support"
+msgstr "permite"
+
+msgid "support"
+msgstr "acepta"
+
+msgid "support"
+msgstr "compatible con"
+
+#### brackets, braces, variantes
+#DRAE
+#corchete = ({[]})
+#llave = ({})
+#paréntesis = ()
+
+### []
+msgid "square brackets"
+msgstr "corchete"
+
+## {}
+msgid "curly braces"
+msgstr "llaves"
+
+## ()
+msgid "brackets"
+msgstr "paréntesis"
+
+msgid "conditional"
+msgstr "estructura de decisión"
+
+msgid "otherwise"
+msgstr "en caso contrario"
+
+msgid "backslash"
+msgstr "barra inversa"
+
+# En el caso de «call a function»
+msgid "call"
+msgstr "invocar"
+
+msgid "history"
+msgstr "historial"
+
+msgid "statement"
+msgstr "instrucción"
+
+msgid "completion"
+msgstr "completado"
+
+msgid "autocompletion"
+msgstr "completado automático"
+
+msgid "swap file"
+msgstr "archivo de intercambio"
+
+msgid "diff file"
+msgstr "archivo de diferencias"
+
+msgid "diff file"
+msgstr "archivo «diff»"
+
+msgid "header"
+msgstr "cabecera"
+
+msgid "buffer"
+msgstr "búfer"
+
+msgid "bug"
+msgstr "fallo"
+
+msgid "error"
+msgstr "fallo"
+
+msgid "enable"
+msgstr "activar"
+
+msgid "disable"
+msgstr "desactivar"
+
+msgid "delete"
+msgstr "eliminar"
+
+msgid "remove"
+msgstr "eliminar"
+
+msgid "item"
+msgstr "elemento"
+
+msgid "key"
+msgstr "clave"
+
+msgid "note"
+msgstr "tenga en cuenta"
+
+# a veces no pasa nada por esto :9
+msgid "note"
+msgstr "observe"
+
+msgid "notice"
+msgstr "tenga en cuenta"
+
+msgid "directory"
+msgstr "directorio"
+
+msgid "script"
+msgstr "script"
+
+msgid "avoid"
+msgstr "evitar"
+
+msgid "abort"
+msgstr "cancelar"
+
+msgid "copyright"
+msgstr "derechos de autor"
+
+# Siempre que sea posible y no quede demasiado largo
+msgid "gui"
+msgstr "interfaz gráfica"
+
+msgid "press"
+msgstr "pulsar"
+
+msgid "string"
+msgstr "cadena"
+
+## Verbo
+msgid "set"
+msgstr "definir"
+
+## Sustantivo
+msgid "set"
+msgstr "conjunto"
+
+msgid "setting"
+msgstr "opción de configuración"
+
+msgid "setup"
+msgstr "configuración"
+
+msgid "display"
+msgstr "pantalla"
+
+msgid "display"
+msgstr "muestra"
+
+msgid "match"
+msgstr "coincidencia"
+
+msgid "plugin"
+msgstr "extensión"
+
+msgid "extension"
+msgstr "extensión"
+
+msgid "command line"
+msgstr "línea de órdenes"
+
+msgid "matches"
+msgstr "coincidencias"
+
+msgid "shell"
+msgstr "intérprete de órdenes"
+
+#, fuzzy
+msgid "range"
+msgstr "rango"
+
+msgid "e.g"
+msgstr "por ejemplo"
+
+msgid "tab"
+msgstr "tabulación"
+
+msgid "flag"
+msgstr "opción"
+
+msgid "switch"
+msgstr "opción"
+
+msgid "highlight"
+msgstr "resaltar"
+
+msgid "highlight sintaxis"
+msgstr "resaltado"
+
+msgid "highlighting"
+msgstr "resaltado"
+
+msgid "split"
+msgstr "dividir"
+
+msgid "tag"
+msgstr "etiqueta"
+
+msgid "filetype"
+msgstr "tipo de archivo"
+
+msgid "ftplugin"
+msgstr "extensión de tipo de archivo"
+
+msgid "feature"
+msgstr "característica"
+
+msgid "feature"
+msgstr "función"
+
+msgid "hint"
+msgstr "indicación"
+
+msgid "location"
+msgstr "ubicación"
+
+msgid "deleting"
+msgstr "eliminar"
+
+msgid "prompt"
+msgstr "consultar"
+
+msgid "indent"
+msgstr "sangrado"
+
+msgid "yank"
+msgstr "copiar"
+
+msgid "matching"
+msgstr "búsqueda de coincidencias"
+
+msgid "quote"
+msgstr "entrecomillar"
+
+msgid "fold"
+msgstr "plegar"
+
+msgid "folding"
+msgstr "plegar"
+
+msgid "scroll"
+msgstr "desplazar"
+
+msgid "autocommand"
+msgstr "orden automática"
+
+#, fuzzy
+msgid "computer"
+msgstr "máquina"
+
+msgid "wrap"
+msgstr "justificar"
+
+msgid "browse"
+msgstr "explorar"
+
+msgid "keyword"
+msgstr "palabra clave"
+
+#, fuzzy
+msgid "shortcut"
+msgstr "atajo de teclado"
+
+msgid "notation"
+msgstr "notación"
+
+msgid "click"
+msgstr "pulsar"
+
+msgid "offset"
+msgstr "desplazamiento"
+
+msgid "redo"
+msgstr "rehacer"
+
+msgid "toolbar"
+msgstr "barra de herramientas"
+
+msgid "plain"
+msgstr "simple"
+
+msgid "browser"
+msgstr "explorador"
+
+msgid "listing"
+msgstr "listar"
+
+#, fuzzy
+msgid "clipboard"
+msgstr "asdas"
+
+msgid "popup menu"
+msgstr "menú contextual"
+
+msgid "backspace"
+msgstr "retroceso"
+
+msgid "runtime"
+msgstr "tiempo de ejecución"
+
+msgid "skip"
+msgstr "omitir"
+
+msgid "foreground"
+msgstr "primer plano"
+
+msgid "occurrence"
+msgstr "aparición"
+
+msgid "link"
+msgstr "enlace"
+
+msgid "trailing"
+msgstr "en exceso al final"
+
+msgid "appending"
+msgstr "añadir"
+
+msgid "backup"
+msgstr "copia de respaldo"
+
+msgid "font"
+msgstr "tipo de letra"
+
+msgid "library"
+msgstr "biblioteca"
+
+msgid "submenu"
+msgstr "menú secundario"
+
+msgid "summary"
+msgstr "resumen"
+
+msgid "builtin"
+msgstr "integrado"
+
+msgid "wildcard"
+msgstr "comodín"
+
+msgid "guess"
+msgstr "averiguar"
+
+msgid "indenting"
+msgstr "sangrado"
+
+msgid "background"
+msgstr "segundo plano"
+
+msgid "encryption"
+msgstr "cifrado"
+
+msgid "layout"
+msgstr "diseño"
+
+msgid "tip"
+msgstr "consejo"
+
+msgid "wrapping"
+msgstr "justificar"
+
+msgid "compiling"
+msgstr "compilar"
+
+msgid "customize"
+msgstr "personalizar"
+
+msgid "trigger"
+msgstr "iniciar"
+
+msgid "debugging"
+msgstr "depuración de fallos"
+
+msgid "nesting"
+msgstr "anidado"
+
+msgid "e-mail"
+msgstr "correo electrónico"
+
+msgid "email"
+msgstr "correo electrónico"
