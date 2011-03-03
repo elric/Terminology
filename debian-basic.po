@@ -1,0 +1,59 @@
+msgid "distribution"
+msgstr "publicación"
+
+# Sólo cuando es el autor original, o si no se hace
+# referencia a un paquete.
+msgid "maintainer"
+msgstr "desarrollador"
+
+msgid "font"
+msgstr "tipo de letra"
+
+msgid "library"
+msgstr "biblioteca"
+
+msgid "normally"
+msgstr "habitualmente"
+
+msgid "encrypt"
+msgstr "cifrar"
+
+msgid "policy"
+msgstr "directrices"
+
+msgid "guidelines"
+msgstr "directrices"
+
+msgid "bug report"
+msgstr "informe de fallo"
+
+msgid "port"
+msgstr "adaptación"
+
+msgid "port"
+msgstr "migración"
+
+msgid "maintain"
+msgstr "desarrollar"
+
+msgid "upstream author"
+msgstr "autor original"
+
+msgid "upstream developer"
+msgstr "desarrollador original"
+
+msgid "Debian Policy"
+msgstr "Normas de Debian"
+
+msgid "Debian Free Software Guidelines"
+msgstr "Directrices sobre software libre de Debian"
+
+msgid "release notes"
+msgstr "notas de publicación"
+
+# si se refiere a un paquete
+msgid "maintainer"
+msgstr "encargado"
+
+msgid "maintainer"
+msgstr "responsable"
